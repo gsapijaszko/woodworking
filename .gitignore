@@ -5,5 +5,4 @@
 *.FCBak
 .quarto
 sources
-**/**.gcode
-
+**/*.gcode
