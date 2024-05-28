@@ -17,15 +17,22 @@ The first one, it's parametric [drill press table](./drill_press/readme.md), wit
 
 ![](drill_press/img/table_assembly.png)
 
-### Makita M3600 - offset baseplate
+### Makita M3600, RT0700 - offset/bushing guide baseplate
 
-Made of 10mm polycarbone taken from old PC monitor.
+Made of 6mm polycarbonate taken from old PC monitor. Central holes $\phi 31/36$ accommodates bushing guide, the remaining counter bored holes $\phi 5/10$ allows to mount the Makita M3600 router or plunge and trimmer bases for RT070x series router.
 
-![](makita_m3600_router_plate/offset_baseplate.svg)
+![](makita_m3600/offset_baseplate.svg)
+
+### Clamps racks
+
+A few racks for 80 and 120 mm bar clamps and 3/4'' pipe clamps. The clamp model used in below visualization is made by [Ahmed ElPrince](https://grabcad.com/library/f-clamp-3).
+
+![](clamps_racks/bar_clamp_rack.png)
+
 
 ## Licence
 
-All designs are available under CERN Open Hardware Licence [OHL-P](https://ohwr.org/cern_ohl_p_v2.txt). All models/drawings/G-code were prepared using [FreeCAD](https://www.freecad.org/) or [OpenSCAD](https://openscad.org/).
+All designs are available under CERN Open Hardware Licence [OHL-S](https://cern-ohl.web.cern.ch/home). All models/drawings/G-code were prepared using [FreeCAD](https://www.freecad.org/) or [OpenSCAD](https://openscad.org/).
 
 <!--
 ## References
